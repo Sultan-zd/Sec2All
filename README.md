@@ -57,7 +57,7 @@ Sec2All is a full-stack web application that provides certificate management and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/LahsenAitOiahmane/Sec2All.git
+git clone https://github.com/Sultan-zd/Sec2All.git
 cd Sec2All
 ```
 
